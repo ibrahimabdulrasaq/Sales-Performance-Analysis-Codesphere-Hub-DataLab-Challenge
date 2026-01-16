@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-Codesphere-Hub-Datalab-hallenge
+# Sales-Performance-Analysis-Codesphere-Hub-Datalab-Challenge
 End-to-end Excel sales analytics project showcasing data cleaning, modeling, and dashboard visualization for business decision-making.
 
 ## Project Overview
