@@ -55,13 +55,13 @@ while maintaining data integrity.
 * Fact Table (Sample)
 <img width="1014" height="600" alt="Fact Table" src="https://github.com/user-attachments/assets/050d1804-3d05-4bda-802f-e0561536cf88" />
 
-* Customer Table (Sample)
+* Customers Table (Sample)
 <img width="685" height="599" alt="Customer Table" src="https://github.com/user-attachments/assets/b26848a0-e030-4c7d-ba3d-a3be068b3a34" />
 
 * Products Table (Sample)
 <img width="553" height="600" alt="Product Table" src="https://github.com/user-attachments/assets/28d47695-a42c-4dc4-8342-22ead519faa4" />
 
-* Sales Person Table (Sample)
+* Sales Persons Table (Sample)
 <img width="564" height="247" alt="Sales Person Table" src="https://github.com/user-attachments/assets/d5bf5889-46c7-46e3-ba7c-e1c2e86ab109" />
 
 * Date Table (Sample)
