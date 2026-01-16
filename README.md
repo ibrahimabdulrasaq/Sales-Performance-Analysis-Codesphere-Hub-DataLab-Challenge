@@ -3,8 +3,7 @@ End-to-end Excel sales analytics project showcasing data cleaning, modeling, and
 
 ## Project Overview
 
-This project is an Excel Sales Performance Dashboard developed as part of the DataLab Challenge organized by CodeSphere Hub.
-The objective was to transform raw sales data into actionable business insights using Excel’s data analysis, modeling, and visualization capabilities.
+I built an end-to-end Sales Performance Dashboard that transforms raw data into actionable insights, helping stakeholders quickly understand sales trends, profitability drivers, and top-performing products and locations. The objective was to transform raw sales data into actionable business insights using Excel’s data analysis, modeling, and visualization capabilities.
 
 The dashboard provides a comprehensive view of sales trends, profitability, product performance, regional insights, and store performance to support informed, data-driven decision-making.
 
